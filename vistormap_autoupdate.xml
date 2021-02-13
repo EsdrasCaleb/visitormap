@@ -1,0 +1,16 @@
+<updates>
+	<update>
+		<name>Visitor Map</name>
+		<description><description>A plugin to viewn from where the visitors come to your site.</description></description>
+		<element>mod_visitormap</element>
+		<type>module</type>
+		<version>0.1.0</version>
+		<downloads>
+			<downloadurl type="full" format="zip">http://www.example.com/mod_helloworld_101.zip</downloadurl>
+		</downloads>
+		<maintainer>Braso</maintainer>
+		<maintainerurl>https://braso.com.br</maintainerurl>
+		<targetplatform name="joomla" version="3.6"/>
+		<client>0</client>
+	</update>
+</updates>
